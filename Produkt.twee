@@ -1,0 +1,279 @@
+:: StoryTitle
+Produkt
+
+
+:: StoryData
+{
+  "ifid": "A8F13BCE-95D1-4B9B-A24A-D3243BE755AC",
+  "format": "Harlowe",
+  "format-version": "3.3.4",
+  "start": "Intro",
+  "zoom": 1
+}
+
+
+:: A {"position":"375,450","size":"100,100"}
+Jeres tropper melder, at de er nået frem til landegrænsen, men der er flere soldater en i havde troet.
+
+Hvad gør i nu?
+
+
+[[aa]]
+I beder dem vente, og sender forstærkninger.
+
+[[ab]]
+I planlægger et overraskelses angreb fra alle sider.
+
+
+:: B {"position":"500,450","size":"100,100"}
+I skal nu vælge hvordan i vil forsvare jer selv.
+
+[[ba]]
+I bruger de lidt ældre tanks og våben som i selv har, våbnene er tunge og tanksne har svært ved at køre rundt, men kan stadig skyde langt og gøre meget skade.
+
+[[bb]]
+I spørger et naboland som har helt nye tanks og våben som kan sikre jer at i overlever denne krig, men det tager tid for dem at blive sendt og når de kommer er det måske for sent.
+
+
+:: C {"position":"625,450","size":"100,100"}
+Hvad skal der stå i denne fredsaftale?
+
+
+[[ca]]
+I bluffer og skriver i brevet at i er blevet lovet hjælp fra nabolande hvis det bryder krig ud.
+
+[[cb]]
+I skriver at i ikke vil bekæmpe dem og som symbol på dette vil i give de byer der rammer grænsen mellem jeres to lande hvis de ikke angriber.
+
+[[cc]]
+I skriver at de kan få hvad de vil så længe de ikke lader krigen fortsætte.
+
+
+:: Intro {"position":"500,200","size":"100,100"}
+I skal nu finde et land som i skal tage nogle beslutninger for som leder jer videre til næste spørgsmål.
+
+
+[[Intro spørgsmål]]
+
+
+:: Intro spørgsmål {"position":"500,325","size":"100,100"}
+Jeres naboland har nu erklæret krig imod jer, og sagt de vil have alt jeres landareal. 
+
+Hvad gør i?
+
+[[A]]
+I begynder at bevæge jeres soldater hen mod grænsen og prøver at stoppe dem inden de overtager noget territorie.
+
+[[B]]
+I begynder at samle tropper og våben og gør klar til at forsvare jer selv.
+
+[[C]]
+I begynder straks på at skrive en fredsaftale som i kan sende til jeres naboland.
+
+
+:: aa {"position":"150,575","size":"100,100"}
+Da forstærkningerne kommer har nabolandet allerede overtaget en af storbyerne ved grænsen, de har dræbt mange indbyggere og byen er godt beskyttet.
+
+
+Hvad gør i?
+
+
+[[aaa]]
+I finder en indgang som ikke ser lige så bevogtet ud som resten og så stormer i ind for at
+generobre byen.
+
+[[aab]]
+I omringer byen og sørger for at de ikke udvider arealet mere end allerede. Og efter noget
+tid skriver jeres naboland om de uden fare kan efterlade byen og give den tilbage
+
+[[aac]]
+I planter en bombe inde i byen og springer det hele i luften.
+
+
+
+
+
+
+
+:: aaa {"position":"100,700","size":"100,100"}
+Mange omkommer i slaget, men i ender med at få jeget de sidste ud af byen. Hele byen skal bygges op igen og hvem hvornår det næste angreb kommer.
+
+Gå tilbage til start for
+at prøve igen:
+
+[[Intro spørgsmål]]
+
+
+:: aab {"position":"200,700","size":"100,100"}
+Dette er en god beslutning fordi du fanger dem og gør så faren ikke eskalere mere end det allerede er, og du ender med at få din modstander til at overgive sig.
+
+Gå tilbage til start for
+at prøve igen:
+
+[[Intro spørgsmål]]
+
+
+:: aac {"position":"0,700","size":"100,100"}
+i springer rigtig mange af nabolandets soldater i luften, så i kan nemt storme de sidste.
+Men mange uskyldige mennesker omkommer.
+ 
+I fik jaget de angribende væk, men i mistede alt for stor en del af jeres egen befolkning.
+
+Gå tilbage til start for
+at prøve igen:
+
+[[Intro spørgsmål]]
+
+
+:: ab {"position":"275,575","size":"100,100"}
+Overraskelsesangrebet virkede! de forventede det ikke og i fik dræbt mange, men de var for stærke og jeres mænd døde, resten af jeres modstandere er stadig på vej med de er svagere end før.
+
+
+Hvad gør i?
+
+
+[[aba]]
+I møder dem ved grænsen og giver dem en god kamp gør alt hvad i kan og håber på det
+bedste.
+
+[[abb]]
+I siger til resten af jeres mænd at de skal plante fælder og bomber under jorden så vores grænse er godt beskyttet.
+
+
+:: aba {"position":"400,700","size":"100,100"}
+Dette kan godt lade sig gøre men det er meget farligt siden man jo bare håber på det bedste uden rigtig at have nogen plan.
+
+Gå tilbage til start for
+at prøve igen:
+
+[[Intro spørgsmål]]
+
+
+:: abb {"position":"300,700","size":"100,100"}
+Dette er en mere sikker måde at få dræbt en masse modstandere på uden selv at gå i krig og risikere en masse liv
+
+Gå tilbage til start for
+at prøve igen:
+
+[[Intro spørgsmål]]
+
+
+:: ba {"position":"625,700","size":"100,100"}
+De var godt i ikke ventede på forstærkninger men jeres våben er ikke lige så stærke som jeres modstanders er i ved i ikke kan holde facaden mere end et par dage.
+
+Hvad gør i?
+
+[[baa]]
+I føler nu i har god tid til at hjælpen fra nabolandene kan nå frem, så i spørger om hjælp.
+
+[[bab]]
+I begynder at skubbe frem og jeres modstandere tilbage i giver jeres sidste og håber at de
+trækker sig.
+
+
+:: baa {"position":"625,825","size":"100,100"}
+De nye tanks og den større hær plover gennem modstandernes mænd, indtil de sidste må flygte. I får hurtigt lavet en fredsaftale med lederen af det tabene land, som selvfølgelig gavner jeres land.
+Dette er en fantastisk situation. Det lægger endda op til handelsaftaler med de lande der hjalp dig.
+
+Godt gået! gå tilbage til
+start for
+at prøve igen:
+
+[[Intro spørgsmål]]
+
+
+:: bab {"position":"750,825","size":"100,100"}
+I kan dog ikke holde den i særlig lang tid og i mister overgreb, de når hurtigt ind til hovedstaden siden mange af jeres mænd er døde og det derfor er svært at kæmpe imod.
+
+I har mistet alt for meget land og alt for mange mænd, det sætter jer i en rigtig dårlig situation.
+
+
+Godt gået, men det var
+ikke optimalt, gå til
+start for at prøve igen.
+
+[[Intro spørgsmål]]
+
+
+:: bb {"position":"500,825","size":"100,100"}
+Forstærkningerne kommer efter et par dage, men på det tidspunkt er halvdelen af landet overtaget. Med de nye tanks får i skubbet de angribende lidt tilbage, men det er ikke nok, i har mistet meget land og mange penge.
+
+Godt gået, men det var
+ikke optimalt, gå til
+start for at prøve igen:
+
+[[Intro spørgsmål]]
+
+
+:: ca {"position":"625,575","size":"100,100"}
+Jeres naboland regner ud at i bluffer i brevet, de angriber og i mister meget territorie.
+Dette er en dårlig situation for jer fordi i ikke har plads til alle og i mister magt
+
+Godt gået, men det var
+ikke optimalt, gå til
+start for at prøve igen.
+
+[[Intro spørgsmål]]
+
+
+:: cb {"position":"750,575","size":"100,100"}
+Nabolandets leder er ikke helt tilfreds, han vil også have jeres havneby, som er dér meget
+af jeres handel foregår.
+
+Hvad gør i?
+
+[[cba]]
+I bliver enige i at i giver jeres havnebyer til jeres nabolande selvom i ved det kommer til at
+koste jer dyrt
+
+[[cbb]]
+I takker nej til dette og der bryder nu krig ud i er i undertal og har dårligere våben det ender ikke godt for jer
+
+
+:: cba {"position":"875,700","size":"100,100"}
+Dette er ikke optimalt i mister meget land og mulighed for at tjene penge på import og export.
+
+Gå tilbage til start for
+at prøve igen
+
+[[Intro spørgsmål]]
+
+
+:: cbb {"position":"875,825","size":"100,100"}
+I mister alt og lever nu under andres magt.
+
+Det var ikke optimalt, gå
+til start for at prøve
+igen.
+
+[[Intro spørgsmål]]
+
+
+:: cc {"position":"750,700","size":"100,100"}
+I giver for meget magt ved at skrive dette og jeres naboland bliver grådige
+
+Hvad gør i?
+
+[[cca]]
+I bygger mure og alt andet forsvar i kan rundt om en så stor del som i kan så de ikke komme ind til den del og holder dem bare ud.
+
+[[ccb]]
+I bliver ved med at tænke men der går for lang tid jeres naboland rykker ind og i mister alt
+
+
+:: cca {"position":"750,950","size":"100,100"}
+Dette er ikke den værste situation i mister meget land men i beskytter dog noget som i selv kan beholde.
+
+Gå tilbage til start for
+at prøve igen:
+
+[[Intro spørgsmål]]
+
+
+:: ccb {"position":"875,950","size":"100,100"}
+Dette er nok de dårligste scenarie for jer grundet at i står med intet tilbage
+
+Gå tilbage til start for
+at prøve igen:
+
+[[Intro spørgsmål]]
